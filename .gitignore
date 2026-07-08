@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+*.egg-info/
+.pytest_cache/
+.venv/
+venv/
+dist/
+build/
+# Env / OS
+.env
+.DS_Store
+
+# Beads / Dolt (from sample-project .gitignore)
+.dolt/
+*.db
+.beads-credential-key
+
+# Sample assets — placeholders, keep out of git for now
+docs/banner.png
+docs/icon.png
+
+# Local Dolt working copy — regenerated from issues.jsonl; never commit
+.beads/embeddeddolt/

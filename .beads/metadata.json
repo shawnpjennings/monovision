@@ -1,0 +1,7 @@
+{
+  "database": "dolt",
+  "backend": "dolt",
+  "dolt_mode": "embedded",
+  "dolt_database": "monovision",
+  "project_id": "1a25d2e5-b3ef-4a46-a03a-1b722dc561dd"
+}
